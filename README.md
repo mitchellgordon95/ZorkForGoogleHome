@@ -40,3 +40,6 @@ Paging zork output caused the app to crash.
 The reviewer attempted to get the app to "move to the house", "look in the mailbox", "turn around", to which the app would respond "I don't understand that. I thought you said, "what is in the mailbox". Returning to game. What do you do next?".
 
 v5: Passed.
+
+ # Join the team 
+ Do you want to collaborate? Join the project at https://crowdforge.io/projects/365
